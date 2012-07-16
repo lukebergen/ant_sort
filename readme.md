@@ -22,4 +22,4 @@ carrying the color that used to be on the grid but was poorly positioned.
 
 How well does it currently work?
 --------------------------------
-Not great.  Though it does better than it did at school.
+Not great.  Though it does better than it did at school if I remember correctly.
